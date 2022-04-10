@@ -1,0 +1,26 @@
+.dialogue-box-image-wrapper {
+    display: grid;
+    gap: 20px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.pixabay-query-label {
+    margin-top: 20px;
+    margin-bottom: 5px;
+    color: #67728a;
+    display: inline-block;
+}
+
+.selected-img-url-text {
+    margin-bottom: 5px;
+}
+
+.dialogue-box-input-wrapper {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.dialogue-box-input {
+    width: 100%;
+    margin-right: 20px;
+}
